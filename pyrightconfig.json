@@ -1,0 +1,8 @@
+{
+  "venvPath": "backend",
+  "venv": "venv",
+  "pythonPlatform": "Windows",
+  "pythonVersion": "3.13",
+  "include": ["backend"],
+  "extraPaths": ["backend"]
+}
